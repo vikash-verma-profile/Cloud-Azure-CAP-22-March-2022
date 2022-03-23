@@ -1,1 +1,5 @@
 Scaffold-DbContext "Server=.\SQLEXPRESS;Database=SampleDb;Trusted_Connection=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models 
+
+for Update
+
+Scaffold-DbContext "Server=.\SQLEXPRESS;Database=SampleDb;Trusted_Connection=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force
