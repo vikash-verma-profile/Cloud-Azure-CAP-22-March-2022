@@ -45,5 +45,26 @@ How azure wroks
 
 Azure Services
 
+1.Compute
+2.Networking
+3.Stoarges
+4.Mobile
+5.Databases
+6.Web
+7.IOT (Internet of Things)
+8.Big data
+9.Ai
+10.Devops
 
+1.Compute:-
+Compute services provide a range of options for hosting applications and services
 
+1a) Azure Virtual Machines ==> winows or linux virtual machine (VMS) hosted in azure.
+1b) Azure Virtual Machine Scale Sets => Scaling for windows or Linux Vms hosted in azure.
+1c) Azure Kubernates Services => cluster management for Vms that run containerized services.
+1d) Azure Service Fibric==> Distributed systems platform that runs in azure or on-primise
+1e) Azure Batch==>Managed service for parallel and high Performance computing applications
+1f) Azure Container Instances==> Containerized apps run on azure without preovioning servers or Vms
+1g) Azure Functions==> An event-driven ,Serverless compute service.
+
+2.Networking:-
