@@ -68,3 +68,19 @@ Compute services provide a range of options for hosting applications and service
 1g) Azure Functions==> An event-driven ,Serverless compute service.
 
 2.Networking:-
+Linking compute resources and providing access to the application that is a key function of azure networking
+
+2a)Azure Virtual Network => connect vms to incoming virtual private network connection.
+2b)Azure Load Balancer ==> Balance inbound and outbound connections to applications or service endpoints
+2c)Azure Application Gateway=>Accesses Virtual Network through high-performance VPN gateways.
+2d)Azure DNS ==>Provides ultra-fast DNS responese and ultra-high domain availabilty.
+2e)Azure Content Delivery Network==>Deliver high-bandwidth content to customers globally
+2f)Azure DDOS protection=>protecs azure-hosted appliation from ddos attacks
+2g)Azure Traffic Manager==>Distributes network traffoc across azure regions worldwide.
+2h)Azure ExpressRoute==>connect to Azure over high-bandwidth dedicated secure connections.
+2i)Azure Network Watcher==>Monitors and diagnoses network issues by using scenario-based analysis.
+2j)Azure Firewall==> Implement hight security6,hight availabilty firewall with unlimited scalability.
+2k)Azure Virtual WAN==>Create a unified wide area network (WAN) that connects local and remote sites.
+
+Storage:-
+

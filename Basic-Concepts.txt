@@ -1,0 +1,7 @@
+1.Intranet
+2.Internet
+3.Loadbalancer
+4.DNS
+5.Gateways
+6.CDN
+7.DDOS attacks==>Distributed denial-of-service attack
