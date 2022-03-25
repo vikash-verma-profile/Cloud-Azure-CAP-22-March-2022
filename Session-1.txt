@@ -82,5 +82,68 @@ Linking compute resources and providing access to the application that is a key 
 2j)Azure Firewall==> Implement hight security6,hight availabilty firewall with unlimited scalability.
 2k)Azure Virtual WAN==>Create a unified wide area network (WAN) that connects local and remote sites.
 
-Storage:-
+3.Storage:-
 
+3a)Azure Blob Storage ==>Storage service for very large objects such as vedio files or bitmaps
+3b)Azure File Storage ==>File share that can accessed and managed like a file server.
+3c)Azure Queue Storage ==> A data store for queuing and reliably delivering messages between applications.
+3d)Azure Table Stoarge ==>Table storage is a service that store non-relational structured data in the cloud.
+
+Common characteristics
+1.Durable
+2.Secure
+3.Scalable
+4.Managed
+5.Accessiable
+
+4.Mobile
+
+1.Offline data synchronization
+2.connectivity to on-premise data.
+3.Broadcasting push notifications
+
+5.Databases
+
+5a)Azure Cosmos Db=> globally distributed database that supports nosql options.
+5b)Azure Sql Database=> Fully managed relational database with auto-scale ,integral intelligence
+5c)Azure Database for Mysql=>Fully managed and scalable Mysql relational database with high-availabilty and security
+5d)Azure Database for PostgreSql=>Fully managed and scalable PostgreSql relational database with high-availabilty and security
+5e)Sql Server on Azure Virtual Machines=> service that host enterprise sql server apps in the cloud
+5f)Azure Synapse Analytics=>fully manages data warehouse with integral security at every level of scale at no extra cost.
+5g)Azure Database Migration Service=> service that migrates database to the cloud with no appliation code change.
+5h)Azure Cache for Redis=> Fully managed service caches frequently used and static data to reduce data and appliation latency.
+5i)Azure Database for MariaDB=>Fully managed and scalable MariaDB relational database with high-availabilty and security
+
+6.Web
+
+6a) Azure app service =>quickly create powerful cloud web-based apps
+6b) Azure Notificaton Hubs => send push notifications to any platform from any back end.
+6c) Azure Api Management==>Publish ApIs to developers,parterns and employees securely and at scale
+6d) Azure Cognitive Search =>Deploy this fully managed serach as a service
+6e) WEb apps features of Azure App Service => create and deploye mission-critical web apps at scale
+6f) Azure SignalR Service => add real-time web functionality easily.
+
+7.IoT
+
+7a)Iot Central =>fully managed gloabl IOT Software as a service solution that makes it easy to onnect ,monitor and manage IOT assests at scale
+7b)Azure IOT hub => Messaging hub that provides secure communications between and monitoring of millions of IOT devices
+7c)IOT edge  ==> Fully Managed service that allow data analysis models to be pused directly onto Iot Devices.
+
+
+8.Bigdata
+
+8a)Azure Synapse Analytics =>run analytics at a massive scale by using a cloud-based enterprise data warehouse that take advantage of massive parallel proccessing
+8b)Azure HDInsight => process massive amount of data with managed clusters of Hadoop cluster in the cloud
+8c)Azure Databricks=> Integrate this collobrative apache spark-based analytics service
+
+
+9.AI
+
+9a)Azure Machine Learning Service =>cloud based environment you can use to develop,train,test,deploy,manage machine learning models 
+9b)Azure ML studio ==>Collaborative visual workspace where we can build test and deploy machine learning solutions by using prebuild machine learning algorithms
+
+
+10.Devops
+
+10a)azure Devops=> use development collaboration tools such as high-performance pipelines,private git repositories
+10b)Azure Devtest Labs => create on-demand windows and linux enviroment to test or demo applications directly from deployment piplines
