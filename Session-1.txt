@@ -1,0 +1,49 @@
+Cloud 
+
+cloud vs on-prem
+
+
+
+why cloud computing is cheaper to use?
+
+1.lower operating cost
+2.Run our infrastructure more efficiently
+3.scale as our business needs change
+
+why should we move to the cloud?
+
+1.The team can deliver new features to their users on record speeds
+2.users expect an incresingly rich and immersive experience with their softwares
+
+cloud vendors
+
+1.azure--Microsoft
+2.aws- Amazon
+3.Gcp- Google
+
+4.alibaba cloud
+5.IBM cloud
+6.Oracle Cloud
+
+What is azure
+
+
+azure is a set of cloud services that help organizations to meet their current and future business challenges.
+azure gives us freedome to build manage and deploy application 
+
+what azure offer to us:-
+
+1.ready for the future
+2.build with you teams
+3.Operate hybrid seamlessly
+4.Trust
+
+How azure wroks
+
+-azure portal
+-azure marketplace
+
+Azure Services
+
+
+
