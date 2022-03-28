@@ -83,4 +83,37 @@ Cloud-Computing is a comsumption based model(OPex)
 .the ability to stop paying for the resources that are no longer needed.
 
 
+Cloud Service Models
 
+1.IAAS=> Infrastructure as a service
+2.PAAS==> Platfrom as a Service
+3.SAAS===>Software as a Service
+
+Cloud Provider
+Cloud tenant
+
+IAAS
+
+This service Model is closest to managing physical servers.
+A cloud Provider will keep hardware up-to-date but operating system maintenance and network configuration is up to you as a cloud tenant.
+
+Azure Virtual machines are fully operational 
+
+
+PAAS 
+
+This cloud service model is a managed hosting environment.
+The cloud provider manages the virtual machines and networking resources and the cloud tenant deploys their application into the manages hostig environment
+
+Azure App Services provide a manages hosting environment 
+
+
+SAAS
+
+
+In this cloud service model the cloud provider manages all the aspects of the application environment such as virtual machines,networking 
+resources data storage and applications.
+
+The cloud Tenant only provide their data to the application.
+
+Microsoft office 365.
