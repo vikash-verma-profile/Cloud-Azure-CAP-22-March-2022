@@ -187,6 +187,36 @@ Each availability zone is made up of an one or more datacenters eqipped with ind
 
 Azure Region Pairs
 
+each azure region always paired with another region within the same geography at least 300 miles away.
+
+examples are west us paired with east us.
+
+Quiz 
+
+
+1.Which of the following can be used to manage governance across multiple Azure subscriptions?
+
+a)Azure initiatives
+b)Management groups--
+c)Resource groups
+
+2. Which of the following is a logical unit of Azure services that links to an Azure account?
+
+a)Azure subscription--
+b)Management group
+c)Resource group
+d)Public cloud
+
+3. Which of the following features does not apply to resource groups?
+
+a)Resources can be in only one resource group.
+b)Role-based access control can be applied to the resource group.
+c)Resource groups can be nested.--
+
+4. Which of the following statements is a valid statement about an Azure subscription?
+
+a)Using Azure doesn't require a subscription.
+b)An Azure subscription is a logical unit of Azure services.--
 
 
 
