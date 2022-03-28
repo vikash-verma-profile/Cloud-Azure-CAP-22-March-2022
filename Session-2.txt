@@ -127,4 +127,68 @@ IAAS														|			PAAS                                               |      
 
 2.you can configure and manage the hardware 				 2.Platform management is handled by cloud provider					2.Users pay for the software they use ona subscription model
 
-			
+
+Serverless Computing
+
+Serverless computing enables developers to build applications faster by elimnating the need for them to manage infrastructure.
+
+with serverless applicatios the cloud service provider automatically provsions,scale and manages the infrastructure required to run the code.
+
+Quiz
+
+1.which of the following isn't a cloud computing category
+
+a) Network as a service--
+b) platform as a service
+c) infrastructure as a service
+d) software as a service
+
+2. Which of the following statements is true?
+
+a)With Operating Expenses (OpEx), you are responsible for purchasing and maintaining your computing resources.
+b)With Operating Expenses (OpEx), you are only responsible for the computing resources that you use.--
+c)With Capital Expenses (CapEx), you are only responsible for the computing resources that you use.
+
+3.Which of the following options isn't a type of cloud computing?
+
+a)Distributed cloud--
+b)Hybrid cloud
+c)Private cloud
+d)Public cloud
+
+4. Which of the following choices isn't a benefit of using cloud services?
+
+a)Scalability
+b)Disaster recovery
+c)High availability
+d)Geographic isolation--
+
+
+Azure Subscriptions,Management resources groups and resources
+
+1.Resources==>Resources are instances of services that we create like virtual machines,storage etc.
+2.Resources Groups ==> Resources are combined into resource groups which act as logical container into which azure resources like web apps,databases are deployed and managed.
+3.Subscriptions ==> A subscription group together user accounts and the resources that have been created by those users accounts.
+4.Management Groups==>These groups helps us to manage access policy and compliance for multiple subscription.All subscription in a management group automatically 
+	inherit the conditions applied to the management group.
+	
+
+Azure region ,availability zones and region pairs
+
+Regions:-Region is a graphical area on the planet that contains at least one potential datacenter that are nearby and network together with a low-latency network.
+
+West US,Canada
+
+Azure Availablity zones
+
+Availablity zones are physically separate datacenters within an azure region.
+Each availability zone is made up of an one or more datacenters eqipped with independent power ,cooling and networking.
+
+
+Azure Region Pairs
+
+
+
+
+
+		
