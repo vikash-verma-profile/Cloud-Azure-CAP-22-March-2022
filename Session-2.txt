@@ -1,0 +1,86 @@
+Azure Accout
+
+
+Azure Accout==> Subscriptions==>rsource groups==> resources
+
+
+Quiz
+
+You need to purchase an azure account before you can use any azure resources
+1) true
+2) false--
+
+what is cloud computing
+
+1.Delivery of computing services over the internet--
+2.setting up own datacenter
+3.using the internet
+
+which of the following is not a feauture of cloud computing
+
+1.Fast innovation
+2.A limited pool of services--
+3.Speeach recognition and other congntive services
+
+Type of Cloud Models
+
+These are 3 deployment models for cloud computing
+
+1.Public Cloud
+2.Private Cloud
+3.Hybrid Cloud
+
+1.Public Cloud==> Services are offered over the public internet and availble to anyoner who want to purchse them.Cloud resources like Servers and storage are owned
+	and operated by a third party cloud services provider and deliver over the internet.
+	
+2.Private Cloud==>A private cloud consists of computing resources used exclusively by the user from one orgainization.A private cloud can be physically located at your orgainization
+	on-site or it can be hosted by a third-party service provider.
+
+3.Hybrid Cloud===>A hybrid cloud is a computing environment that combines a public and a private cloud by allowing data and application to be shared between them.
+
+Comparision on Cloud Models
+
+Public Cloud
+1.No Capital expensitures to scale up
+2.Applications can be quicly provisioned and deprovisioned.
+3.Organization pay only for what they use.
+
+Private Cloud
+1.Organization have compete control over resources and security.
+2.Organization are resposible for hardware maintenance and updates.
+3.Harware must be purchased for starup and maintenance.
+
+
+Hybrid Cloud
+
+1.Provides the most flexibility.
+2.Organization determine where to run their application
+3.Organization control security,compliance or legal requirements.
+
+
+
+Cloud computing advantages?
+
+1.High availbility
+2.Scalability
+3.Elasticity
+4.Geo-Distribution
+5.Disaster recovery
+
+
+Capital Expense and operating expense
+
+1.CapEx(Capital Expense )==>its the up-front spending of money on physical infrastructure.The up-front cost from CapEx has value that reduces over time.
+
+2.Operation expenditure (OpEx)==>spending money on service or product now and being billed for them now.There is no upf-front cost,as you pay for a service.
+
+
+Cloud-Computing is a comsumption based model(OPex)
+
+.No up-front costs
+.no need to purchase and manage costly infrastructure that user might not use to its fullest
+.the ability to pay for additional resources when they are needed
+.the ability to stop paying for the resources that are no longer needed.
+
+
+
