@@ -117,3 +117,14 @@ resources data storage and applications.
 The cloud Tenant only provide their data to the application.
 
 Microsoft office 365.
+
+
+Cloud model comparision
+
+IAAS														|			PAAS                                               |         SAAS
+
+1.The most flexible cloud service                            1.Focus on application development									1.Pay-as-you-go pricing model
+
+2.you can configure and manage the hardware 				 2.Platform management is handled by cloud provider					2.Users pay for the software they use ona subscription model
+
+			
