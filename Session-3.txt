@@ -1,0 +1,46 @@
+Azure Compute Services
+
+1.Azure Virtual Machines
+2.Azure Container Instances
+3.Azure App Services
+4.Azure Functions or serverless computing
+
+-Azure Virtual Machines
+
+Virtual machines are software emulations of physical computers.
+
+-Virtual Machine Scale Sets
+
+These are an Azure Compute resource that we can use to deploy or manage a set of identical vms.
+
+-Container and Kubernates
+ Thease are Azure compute resources that we can use to deploy and manage containers.
+ 
+ Containers are lightweight ,virtalized application enviornments.
+ 
+ 
+ -App Services
+ 
+ We can quickly build,Deploy and scale enterprise-level web mobile and Api apps on any platform.
+ 
+ -Functions
+ 
+ This is ideal when we are concerned about only the code running our service and not the platform or infrastructure.
+
+When to user Azure Virtual Machines
+
+1) During Testing and Development
+2) When running applications in the cloud
+3)when extending your dataceter to the cloud
+4) During Disaster recovery
+
+Scale Vms in azure
+
+1.Virtual Machine Scale Sets
+2.Azure Batch
+
+1.Virtual Machine Scale Sets==>virtual machine scale sets allow us to create and manage a group of identical,Load-balanced VMS.
+
+2.Azure Batch==>Azure Batch enables large-scale parallel and hight performance computing batch jobs with ability to scale to tens,hundreds or thound vms.
+
+Azure App Service
