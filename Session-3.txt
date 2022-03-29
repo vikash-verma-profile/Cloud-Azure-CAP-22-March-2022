@@ -44,3 +44,32 @@ Scale Vms in azure
 2.Azure Batch==>Azure Batch enables large-scale parallel and hight performance computing batch jobs with ability to scale to tens,hundreds or thound vms.
 
 Azure App Service
+
+Types of Azure Service
+
+1.Web apps
+2.Api apps
+3.webjobs
+4.Mobile apps
+
+Azure Container and Azure Kubernates Service
+
+What are containers
+
+Containers are a virtaulization enviornments much like running virtual machines on a single physical host.we can multiple containers on a single physical
+	or virtual host.
+	
+Manage Containers
+
+Containers are managed through a container orchestrator.
+
+there are 2 ways
+
+1.Docker
+2.Microsoft based containers
+	a) Azure Container Instances
+	b) Azure Kubernates Service (AKS)
+	
+	Azure Container Instances==>This is an PAAS offering that allow you to run conatiners which we can run.
+	Azure Kubernates Service ==> The task of automating,managing and interacting with large number of conatiners is known as orchestation
+		This Service is complete orchestration service for containers with distributed architeture and large amount of containers.
