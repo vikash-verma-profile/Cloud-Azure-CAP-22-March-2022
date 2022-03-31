@@ -73,3 +73,61 @@ there are 2 ways
 	Azure Container Instances==>This is an PAAS offering that allow you to run conatiners which we can run.
 	Azure Kubernates Service ==> The task of automating,managing and interacting with large number of conatiners is known as orchestation
 		This Service is complete orchestration service for containers with distributed architeture and large amount of containers.
+	
+
+Serverless computing is the abstraction of servers,infrastructure and operating systems.
+
+serverless computing includes
+
+1.abstraction of servers ==> deploye the code which will run on hight availability
+2.Event-driven scale==>Events include trigger  by
+a) Timers => if we need a function to run daily at 10:00Am
+b) HTTP==>for example api or webhook scenario
+c) Queues==> order processing
+d)etc
+3.micro-billing	if code run once a day for 3 minutes they will charge for one execution and 2 minutes of computing time
+		
+Azure have two implementations of serverless computing
+
+1.Azure Functions==> functions can execute code in almost any modern language
+2.Azure Logic Apps =>Logic apps are designed in a web-based designer and can execute logic trigger by azure services without writing any code.
+
+		
+		
+Azure Functions vs Azure Logic Apps
+		
+		
+		Functions                                                        |     logic Apps
+		
+1) Normally stateless														1) stateful
+
+2) Code-first																2) Designer first
+
+3)Each activity is a azure function and we have to write code for			3) Large collections of ready-made actions
+  activity functions
+  
+4)Azure application Insights												4)Azure portal log analytics
+		
+
+
+Quiz	
+		
+1. Which Azure compute resource can be deployed to manage a set of identical virtual machines?
+
+a)Virtual machine scale sets --
+b)Virtual machine availability sets
+c)Virtual machine availability zones
+
+2. Which of the following services should be used when the primary concern is to perform work in response to an event (often via a REST command) that 
+  needs a response in a few seconds?
+
+a)Azure Functions--
+b)Azure App Service 
+c)Azure Container Instances
+
+3. Your company has a team of remote workers that need to use Windows-based software to develop your company's applications, but your team members are 
+	using various operating systems like macOS, Linux, and Windows. Which Azure compute service would help resolve this scenario?
+
+a)Azure App Service
+b)Azure Virtual Desktop --
+c)Azure Container Instances

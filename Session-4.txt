@@ -1,0 +1,24 @@
+Azure Networking Services
+
+Azure Virtual Networking
+
+Azure Virtual Networks enable azure resources such as VMS,Web apps and databases to communicate with each other with users on the internet
+
+Azure Virtual Networks will have following capabilities:-
+
+a)Isolation and segmentation
+b)Internet commuincations
+c)commuincations between azure resources
+	i)Virtual networks => This can connect not only to the VMs but other azure resources like app service
+	ii)Service endpoints ==>This will help us to connect to other azure resources like azure sql and storage accounts
+d)commuincations with on-peremises resources
+	i)Point to site Virtual private network==>This apporoach to a vPN connection is from computer outside your organisation
+	ii)Site to site virtual private network ==>A site to site vpn links your on-prem VPN device or gateway to the azure vpn gateway in a virtual network
+	iii)Azure ExpressRoutes==>For the environments where you need greater bandwidth and high level of security .
+e)Route network traffic=> azure routes traffic in between subnets on any connected virtual networks ,on-peremises network and the internet
+	i) Route Table ==>A route table allows us to define rules about how traffic should be directed.we can create custom route tables 
+	ii)Border Gateway Protocol==>BGP works with azure  Vpn Gateway,Azure route servers or expressroute to propgate on-prem BGP routes to AVN
+f)filter network traffic
+	i) Networks Security Group==>NSG is a azure resource that can have multiple inbound and outbound security rules.
+	ii)Network Virtual Appliances==>This Carries out a particular network function,such as running a firewell 
+g)connect virtual networks
