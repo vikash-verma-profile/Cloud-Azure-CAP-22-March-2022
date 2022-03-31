@@ -22,3 +22,15 @@ f)filter network traffic
 	i) Networks Security Group==>NSG is a azure resource that can have multiple inbound and outbound security rules.
 	ii)Network Virtual Appliances==>This Carries out a particular network function,such as running a firewell 
 g)connect virtual networks
+
+
+Address space=> when we setup a virtual network we have to define the internal address space in Classless Interdomain Routing(CIDR) format.
+	This address spaces must be unique within your subscription and any other network that we are connect to.
+	
+	10.0.0.0/24  VN1
+	Range from 10.0.0.1 to 10.0.0.254
+	
+	10.0.0.0/8
+	10.0.0;1 to 10.255.255.254
+
+
