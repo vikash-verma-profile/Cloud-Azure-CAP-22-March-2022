@@ -30,7 +30,22 @@ Address space=> when we setup a virtual network we have to define the internal a
 	10.0.0.0/24  VN1
 	Range from 10.0.0.1 to 10.0.0.254
 	
-	10.0.0.0/8
-	10.0.0;1 to 10.255.255.254
+	10.0.0.0/8  VN2
+	10.0.0.1 to 10.255.255.254
+	
+Subnets:-Within each virtual network address range we can create one or more subnets that partition the virtual network adress space.
+	Routing between subnets will then depends on the default traffic routes.
+	we can also define custom routes.
 
+Service endpoints
 
+Nat Gateway=> Network address translation
+	A nat gateway is a fully manged and highly resilient NAT service.
+	
+	
+BastionHost=>we can select or disable azure Bastion in our virtual network.Azure Bastion service will provide us a secure and seamless RDP/SSH connectvity
+to our virtual machines directly in azure portal.
+
+DDOS pRoctection standard
+
+Firewell
