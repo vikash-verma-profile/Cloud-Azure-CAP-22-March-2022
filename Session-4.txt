@@ -48,4 +48,32 @@ to our virtual machines directly in azure portal.
 
 DDOS pRoctection standard
 
-Firewell
+Firewell 
+
+
+
+Create a virtual Network
+
+Subscription=>This option applies if we have multiple subscriptions
+Resource Group==>a virtual network needs to exist in resource group.
+Network Name==> The name must be unique in the subscription
+Region==>region where we want to create network .
+
+
+what is CIDR?
+Classless inter-domain routing (CIDR).The CIDR blocks are group of addresses that share the same prefix and contain the same number of bits.
+The combination of muliple connecting CIDR blocks into a large whole,sharing a common network prefix.
+SuperNetting
+
+subnets==>sub-network
+
+IP CIDR 	|	Last Ip Address 	| Mask				| Hosts 
+
+a.b.c.d/32							255.255.255.255		 1
+a.b.c.d/31							255.255.255.254		 2
+
+Address Space==>
+Subnets==> within each virtual address range,we can create one or more subnets that partition the virtual network address spaces
+Service Endpoints==>
+Nat Gateway==>
+
