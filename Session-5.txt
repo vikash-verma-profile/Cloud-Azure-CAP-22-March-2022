@@ -1,0 +1,53 @@
+Storage
+
+Storage account
+
+A storage account provide unique namespace for azure storage data. That will be accessible from anywhere in the world over HTTP.
+
+Azure Blob Storage
+Azure Disk Storage
+Azure Files Storage
+
+Azure Blob access tiers
+
+Disk Storage
+
+Disk storage provide disks for virtual machines.
+
+SSD==> Solid State drives
+HDD==> Hard disk drives
+
+Azure Blob Storage 
+
+Azure blob storage is an object storage solution for the cloud.It can store massive amount of data,like binary data or text.
+
+Azure blob storage is unstructured i.e there is no restriction on kind of data it can hold.
+
+Azure blob storage can manage throusands of simunataneous uploads,massive amount of vedio data.
+
+
+Azure Blob Storage is ideal for:-
+
+a)Serving images or documents directly to the browser
+b)storing files for distributed access
+c)streaming video and audio.
+d)Storing data for backup and restore.
+e)storing data for analysis.
+
+
+Azure Files Fundamantals
+
+Azure Files offers fully managed file share in the cloud that are accessible via server message block and network file system.
+
+Use cases for azure files
+
+a)Many on-prem application use files shares.
+Azure file makes it easier to migrate those applications that share data to azure.We can mount the azure files share to the same drive letter that the on-prem
+application uses.
+
+b)Store configuration files on file share and access them from multiple VM.
+Tools and utility used by multiple developers in a oraganization or group can be stored on the file share.So that everybody can find them .
+
+c)Write Data to a file share.
+We might want to do with any logs or crash dumps.
+
