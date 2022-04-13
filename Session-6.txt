@@ -1,0 +1,31 @@
+Azure Cosmos DB
+Azure Sql Database
+Azure Sql Managed Instance
+Azure Database for Mysql
+Azure Database for Postgresql
+Azure synapse Analytics
+Azure HDInsight
+Azure Databricks
+Azure Data lake analytics
+
+
+Sql vs NoSql
+
+
+Sql databases ==>RDMS
+
+Sql server
+Mysql
+Postgresql
+Oracle
+Sqllite
+
+NoSql
+
+MongoDB
+CouchDb
+Cassandra
+
+
+Azure Cosmos DB
+Azure Cosmos DB is a fully managed NoSQL database service for building scalable, high performance applications.
