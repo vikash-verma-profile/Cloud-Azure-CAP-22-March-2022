@@ -26,7 +26,8 @@ namespace EcommerceWebApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<EcommerceDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("EcommerceConection")));
-            services.AddRazorPages();
+            services.AddControllersWithViews().AddRazorRuntimeCompilation();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -52,7 +53,10 @@ namespace EcommerceWebApp
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapRazorPages();
+                endpoints.MapControllerRoute(
+                    name:"default",
+                    pattern:"{controller=Home}/{action=Index}/{id?}"
+                    );
             });
         }
     }
